@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Wordle",
+    "slug": "wordle",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#0e1016",
+    "splash": {
+      "backgroundColor": "#0e1016"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0e1016",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    }
+  }
+}
